@@ -1,1 +1,1 @@
-
+For my capstone project, the Article Prioritization Queue ranks the organization’s existing articles so the team knows which ones to turn into podcast episodes first. Each article is scored against a weighted rubric with criteria such as audience match, recency, and priority status like timeless or needs update. The highest scoring articles move to the top of the queue and feed the article search and script generation flow. I tested the rubric on 30 additional articles and am now tuning the weights for each criterion so the ranking is more accurate.
